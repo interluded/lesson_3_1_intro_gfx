@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-// 0,0 is the top left
+// 0,0 is the top left l
 // AS Y VALUE GETS BIGGER, GOES DOWN, NEGATIVE OF MATH CLASS
 public class hollandFlag extends JPanel {
     public static void main(String[] args) {
