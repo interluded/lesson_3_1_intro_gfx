@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42dcaf15-b53d-46ac-8f90-f605dd2480e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_3_1_where_things_get_interesting_3.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hollandFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/italianFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/landScape.java" afterDir="false" />
-    </list>
+    <list default="true" id="42dcaf15-b53d-46ac-8f90-f605dd2480e0" name="Changes" comment="oh my fucking god" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,11 +64,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698371569069</updated>
-      <workItem from="1698371570012" duration="2310000" />
+      <workItem from="1698371570012" duration="2596000" />
     </task>
+    <task id="LOCAL-00001" summary="oh my fucking god">
+      <option name="closed" value="true" />
+      <created>1698374121085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698374121085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="oh my fucking god">
+      <option name="closed" value="true" />
+      <created>1698374145470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698374145470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oh my fucking god" />
+    <option name="LAST_COMMIT_MESSAGE" value="oh my fucking god" />
   </component>
 </project>
